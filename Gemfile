@@ -31,6 +31,8 @@ gem 'rack', '>= 1.6.11'
 # gem 'bcrypt', '~> 3.1.7'
 gem "activemodel", ">= 4.2.5.1"
 
+gem "activejob", ">= 4.2.11"
+
 # Use Unicorn as the app server
 # gem 'unicorn'
 

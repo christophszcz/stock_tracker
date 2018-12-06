@@ -164,6 +164,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activejob (>= 4.2.11)
   activemodel (>= 4.2.5.1)
   bootstrap-sass
   byebug
